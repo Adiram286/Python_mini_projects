@@ -6,7 +6,6 @@ import PIL.ImageTk as imtk
 import PIL.Image as i
 import random
 
-
 win=Tk()
 win.title("Guess the Number")
 win.configure(background="black")
@@ -100,3 +99,4 @@ start_button.place(x=375,y=225)
 
 
 win.mainloop()
+
